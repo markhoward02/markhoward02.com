@@ -2,6 +2,13 @@
 .content-section {
   border-bottom: 2px dotted var(--bg1);
   padding: 2rem 0;
+
+  & a {
+    color: var(--primary-alt);
+    &:hover {
+      color: var(--primary);
+    }
+  }
 }
 
 .post {

@@ -1,12 +1,23 @@
 {{ define "main" }}
   <div class="content-section">
-    <h1>{{ .Title | markdownify }}</h1>
-    {{ with .Content }}
-      <div>{{ . }}</div>
-    {{ end }}
+    <h1>Welcome</h1>
+
+    <div>
+      <p>
+        Thank you for visiting my personal website! My name is Mark Howard, and
+        I am a software engineer with a passion for building web applications
+        and exploring new technologies.
+      </p>
+      <p>
+        This site is a work in proress, but for the moment please check out:
+        <br />
+        <a href="resume">Resume</a> |
+        <a href="about">About Me</a>
+      </p>
+    </div>
+
+    <!-- {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ $paginator := .Paginate $pages }}
+    {{ partial "post-list.html" $paginator }} -->
   </div>
-  <!-- See https://gohugo.io/functions/where/#mainsections -->
-  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{ $paginator := .Paginate $pages }}
-  {{ partial "post-list.html" $paginator }}
 {{ end }}

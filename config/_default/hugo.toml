@@ -141,11 +141,6 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog"
-    weight = 10
-  [[menu.main]]
     identifier = "resume"
     name = "Resume"
     url = "/resume"

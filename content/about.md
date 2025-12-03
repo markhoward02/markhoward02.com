@@ -33,7 +33,3 @@ I eventually joined the insurance group and worked there for a few years before
 I joined a consulting firm. I worked on an athlete management system that
 pivoted to an HR platform, becoming the first employee at RippleWorx. Being part
 of a funded startup has been quite an exciting experience.
-
-## Attributions
-
-- This site is powered by [Hugo](https://gohugo.io/)
