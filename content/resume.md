@@ -20,7 +20,7 @@ type: "resume"
 
 ## Professional Experience
 
-### RippleWorx / Bespoke Technologies
+### RippleWorx Inc
 
 **Huntsville, AL (Remote)**  
 **Senior Software Engineer / Technical Product Lead**  
