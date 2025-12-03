@@ -106,3 +106,7 @@ Envision is a pharmaceutical marketing company.
   Pi, Arduino, and NanoFramework for various projects.
 - **Contest:** Won a Microsoft app contest in 2015 with the app
   TimesheetAnywhere (now discontinued).
+
+### Download
+
+[PDF](/Mark_Howard_Resume_2025.pdf)
