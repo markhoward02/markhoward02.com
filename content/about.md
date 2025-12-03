@@ -17,6 +17,10 @@ My other interests include hiking, all things technology, and playing board
 games. I've been learning microcontroller programming with Arduino and Raspberry
 Pi in my spare time. Also, I love experimenting with new recipes in the kitchen.
 
+Also check out [**Grocery Board:**](https://groceryboard.io). This is an app
+that I developed with my wife for shared shopping lists and meal planning. It's
+available on iOS, Android, Windows, and as a PWA.
+
 ### My Work History
 
 After I worked a few junior engineering jobs, I became a contractor for a small
