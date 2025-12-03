@@ -26,8 +26,8 @@ I developed internal LOB apps, marketing websites, and public-facing member
 insurance websites. I also built a construction project estimating app and a
 challenging funds control app.
 
-On the side, I built an e-commerce software platform for auto parts and ran a
-couple of my own e-commerce websites.
+On the side, I built an e-commerce software platform. I had auto parts clients
+and ran a couple of my own e-commerce websites.
 
 I eventually joined the insurance group and worked there for a few years before
 I joined a consulting firm. I worked on an athlete management system that
