@@ -26,7 +26,7 @@ type: "resume"
 **Senior Software Engineer / Technical Product Lead**  
 **May 2018 – Present**
 
-RippleWorx is a SaaS solution in the human resources sector, offering a flexible
+RippleWorx is a SaaS product in the human resources sector, offering a flexible
 survey tool, tasks module, shared calendar, and training plans for monitoring
 employee sentiment and other various functions.
 
