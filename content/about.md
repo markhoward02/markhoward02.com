@@ -10,7 +10,7 @@ experience in software development. I specialize in building scalable web
 applications and services using modern technologies and best practices.
 
 I live in Canton, Georgia with my wife and our four children. We enjoy having
-Nerf gun wars in the house, going to Six Flags, and exploring new places
+nerf gun wars in the house, going to Six Flags, and exploring new places
 together.
 
 My other interests include hiking, all things technology, and playing board
