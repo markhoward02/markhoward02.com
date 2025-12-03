@@ -24,7 +24,7 @@ available on iOS, Android, Windows, and as a PWA.
 ### My Work History
 
 After I worked a few junior engineering jobs, I became a contractor for a small
-insurance group, which grew rapidly, which gave me tons of work.
+insurance group that grew rapidly giving me tons of work.
 
 I developed internal LOB apps, marketing websites, and public-facing member
 insurance websites. I also built a construction project estimating app and a
