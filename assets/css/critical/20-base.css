@@ -1,5 +1,6 @@
 :root {
-  --font-monospace: "Fira Code", "Lucida Console", Monaco, monospace;
+  --font-monospace: calibri, Verdana, "Fira Code", "Lucida Console", Monaco,
+    monospace;
   --font-sans-serif: Verdana, Helvetica, sans-serif;
   --font-serif: "Roboto Slab", Georgia, serif;
 }
@@ -24,11 +25,6 @@ strong {
 a {
   color: inherit;
   text-decoration: none;
-}
-
-a.link--external::after {
-  /* 2009 = Thin Space */
-  content: "\2009↗";
 }
 
 img,
@@ -74,7 +70,7 @@ h3,
 h4,
 h5,
 h6 {
-  border-bottom: 1px solid var(--bg1);
+  border-bottom: 1px dotted var(--bg1);
 }
 
 h1,

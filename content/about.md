@@ -3,24 +3,37 @@ title: "About"
 draft: false
 ---
 
+### About Me
+
+Hello! I'm Mark Howard, a Senior Software Engineer with over 2 decades of
+experience in software development. I specialize in building scalable web
+applications and services using modern technologies and best practices.
+
+I live in Canton, Georgia with my wife and our four children. We enjoy having
+Nerf gun wars in the house, going to Six Flags, and exploring new places
+together.
+
+My other interests include hiking, all things technology, and playing board
+games. I've been learning microcontroller programming with Arduino and Raspberry
+Pi in my spare time. Also, I love experimenting with new recipes in the kitchen.
+
+### My Work History
+
+After I worked a few junior engineering jobs, I became a contractor for a small
+insurance group, which grew rapidly, which gave me tons of work.
+
+I developed internal LOB apps, marketing websites, and public-facing member
+insurance websites. I also built a construction project estimating app and a
+challenging funds control app.
+
+On the side, I built an e-commerce software platform for auto parts and ran a
+couple of my own e-commerce websites.
+
+I eventually joined the insurance group and worked there for a few years before
+I joined a consulting firm. I worked on an athlete management system that
+pivoted to an HR platform, becoming the first employee at RippleWorx. Being part
+of a funded startup has been quite an exciting experience.
+
 ## Attributions
 
-This theme depends on the following projects:
-
-- [Powered by Hugo](https://gohugo.io/)
-- Color scheme based on [Gruvbox](https://github.com/morhetz/gruvbox)
-- Code Highlighting by [Prism](https://prismjs.com/)
-- [Tabler Icons](https://tablericons.com/)
-- [Simple Icons](https://simpleicons.org/)
-- Content with the [#hugo-basic-example](/tags/hugo-basic-example) tag
-  originates from [gohugoio/hugoBasicExample](https://github.com/gohugoio/hugoBasicExample)
-
-A big thanks to the creators! ❤️
-
-The [profile picture of Richard Hendricks is from the Fandom Silicon Valley Wiki](https://silicon-valley.fandom.com/wiki/Richard_Hendricks?file=Richard_Hendricks.jpg).
-
-## Legal
-
-The theme is [licensed under MIT](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE).
-
-All trademarks are the property of their respective owners.
+- This site is powered by [Hugo](https://gohugo.io/)

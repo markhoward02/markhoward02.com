@@ -146,9 +146,9 @@ enableRobotsTXT = true
     url = "/blog"
     weight = 10
   [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv"
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume"
     weight = 20
   [[menu.main]]
     identifier = "about"
